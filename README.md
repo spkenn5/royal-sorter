@@ -8,9 +8,10 @@ In this challenge, you will be given a list of royal name strings consisting of 
 
 For example, if you are given the royal names [George VI, William II, Elizabeth I, William I] the result of the sort is [Elizabeth I, George VI, William I, William II].
 
-Function Description Create a function called getSortedList. The function must return the array sorted first by given name, then by ordinal.
 
 # Method
+Function Description Create a function called getSortedList. The function must return the array sorted first by given name, then by ordinal.
+
 getSortedList has the following parameter:
 
 names[names[0],...names[n-1]]: an array of royal name strings "given ordinal"
